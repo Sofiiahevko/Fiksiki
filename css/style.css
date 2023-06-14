@@ -1,0 +1,31 @@
+body{
+	background:#0FBD54;
+}
+
+.nav-wrapper{
+	background:#6DB4D3;
+}
+
+.leftimg {
+float:left; /* Вирівнювання по лівому краю */
+margin: 6px 6px 6px 0; /* Відступи навколо картинки */
+}
+.rightimg {
+float: right; /* Вирівнювання по правому краю */
+margin: 0 7px 7px 7px; /* Відступи навколо картинки */
+}
+
+.BATON{
+	
+	font-family: 'Trebuchet MS', sans-serif;
+	font-size: 25px;
+}
+
+.two{
+	text-align: center;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+.full-screen {
+	width: absolute;
+}
